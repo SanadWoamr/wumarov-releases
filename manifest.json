@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-03T07:27:00.318Z",
+  "updated": "2026-10-03T09:52:30.479Z",
   "launcher": {
     "version": "1.0.2",
     "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/launcher-v1.0.2/Wumarov-Launcher-Setup-1.0.2.exe",
@@ -16,20 +16,20 @@
       "description": "A co-op horror game for one to four players. Work in the HR department of a growing corporation, interview applicants, and decide who gets hired. Not everyone is who they say they are.",
       "exe": "HumanResources.exe",
       "install_folder": "Human Resources",
-      "latest": "0.1.15",
-      "size": 391950153,
+      "latest": "0.1.16",
+      "size": 391980341,
       "files": [
         {
           "path": "HumanResources.exe",
           "size": 109130240,
-          "sha256": "77797c3e7fc7a5c62c43935a5acd7eba8fe631975b676bbc164136c3dfd27be0",
-          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/project-hr-v0.1.15/HumanResources.exe"
+          "sha256": "c48cfd4ed2004bd4530e0edb826b7544bd078d6b626a6ad4c87039429bfc7cec",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/project-hr-v0.1.16/HumanResources.exe"
         },
         {
           "path": "HumanResources.pck",
-          "size": 278539388,
-          "sha256": "6526ee6c44afb86991c2e38bb0f5ed1ab50ab54f9e63caf1b65311df1c7e535c",
-          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/project-hr-v0.1.15/HumanResources.pck"
+          "size": 278569576,
+          "sha256": "715caa902a52219264d15c1198334ed00f8fa24796af358dd63de3af5effe5aa",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/project-hr-v0.1.16/HumanResources.pck"
         },
         {
           "path": "libgodotsteam.windows.template_release.x86_64.dll",
@@ -52,11 +52,16 @@
         {
           "path": "version.json",
           "size": 50,
-          "sha256": "0067674dbee17d98f41b8021fc91e67170343ab2b2d7a6f3fbbc5b89fa925a1c",
-          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/project-hr-v0.1.15/version.json"
+          "sha256": "3638257eccdf9ecd5a57ef7484e2e9c844937fe143c5a9da6be88b9b35d82c57",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/project-hr-v0.1.16/version.json"
         }
       ],
       "versions": [
+        {
+          "version": "0.1.16",
+          "date": "2026-10-03",
+          "notes": "Fixed Troll body"
+        },
         {
           "version": "0.1.15",
           "date": "2026-10-03",
