@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "updated": "2026-10-03T00:57:05.327Z",
-  "launcher": null,
+  "updated": "2026-10-03T01:06:07.327Z",
+  "launcher": {
+    "version": "1.0.0",
+    "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/launcher-v1.0.0/Wumarov-Launcher-Setup-1.0.0.exe",
+    "sha256": "a7aac027ec7b904fa2d6bf2719c97c31974ccaec5590d04da9eed10ce7614c7b",
+    "size": 102421522,
+    "notes": "First version of the Wumarov Launcher.",
+    "date": "2026-10-03"
+  },
   "games": [
     {
       "id": "test-game",
