@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-03T01:06:07.327Z",
+  "updated": "2026-10-03T01:10:23.142Z",
   "launcher": {
     "version": "1.0.0",
     "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/launcher-v1.0.0/Wumarov-Launcher-Setup-1.0.0.exe",
@@ -9,59 +9,5 @@
     "notes": "First version of the Wumarov Launcher.",
     "date": "2026-10-03"
   },
-  "games": [
-    {
-      "id": "test-game",
-      "name": "Test Game",
-      "description": "A tiny game used to test the launcher.",
-      "exe": "game.exe",
-      "install_folder": "Test Game",
-      "latest": "0.1.1",
-      "size": 3506254,
-      "files": [
-        {
-          "path": "data.pck",
-          "size": 3145728,
-          "sha256": "7f77cf57247a6902d8713e74aa4bca3bd124150601f6520d4d882a7261571cd8",
-          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/test-game-v0.1.0/data.pck"
-        },
-        {
-          "path": "game.exe",
-          "size": 360448,
-          "sha256": "468ffe129c395abf6b21a09efdf261910a95fb98aa982ead73caa7b2b684577e",
-          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/test-game-v0.1.0/game.exe"
-        },
-        {
-          "path": "readme.txt",
-          "size": 25,
-          "sha256": "2a47f57b94242fb5e782eaf12926042d26e3ec87d82f45a8f957fa81835d8f43",
-          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/test-game-v0.1.1/readme.txt"
-        },
-        {
-          "path": "sub/extra.dat",
-          "size": 5,
-          "sha256": "c8dee78f8c7b466c881847accc196998bad00e2b96c5ef913dfbe454d3807c96",
-          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/test-game-v0.1.0/sub__extra.dat"
-        },
-        {
-          "path": "version.json",
-          "size": 48,
-          "sha256": "1a1c0e457fe481ef6d7320eb0db71c522d33544d5a69c74a618613c7968a3715",
-          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/test-game-v0.1.1/version.json"
-        }
-      ],
-      "versions": [
-        {
-          "version": "0.1.1",
-          "date": "2026-10-03",
-          "notes": "Second test build: readme changed, the big file is not uploaded again."
-        },
-        {
-          "version": "0.1.0",
-          "date": "2026-10-03",
-          "notes": "First test build."
-        }
-      ]
-    }
-  ]
+  "games": []
 }
