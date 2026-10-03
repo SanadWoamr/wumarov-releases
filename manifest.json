@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-03T00:43:16.741Z",
+  "updated": "2026-10-03T00:57:05.327Z",
   "launcher": null,
   "games": [
     {
@@ -9,8 +9,8 @@
       "description": "A tiny game used to test the launcher.",
       "exe": "game.exe",
       "install_folder": "Test Game",
-      "latest": "0.1.0",
-      "size": 3506243,
+      "latest": "0.1.1",
+      "size": 3506254,
       "files": [
         {
           "path": "data.pck",
@@ -26,9 +26,9 @@
         },
         {
           "path": "readme.txt",
-          "size": 14,
-          "sha256": "df64c50e979abb88184a1539f6b2a1d8c3899467cdb59e4dce273e18392f3ed3",
-          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/test-game-v0.1.0/readme.txt"
+          "size": 25,
+          "sha256": "2a47f57b94242fb5e782eaf12926042d26e3ec87d82f45a8f957fa81835d8f43",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/test-game-v0.1.1/readme.txt"
         },
         {
           "path": "sub/extra.dat",
@@ -39,11 +39,16 @@
         {
           "path": "version.json",
           "size": 48,
-          "sha256": "25b8ad4dc48e104d994e8c4d784e37bc66fe32e998df55d6a32e2c61cf61a396",
-          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/test-game-v0.1.0/version.json"
+          "sha256": "1a1c0e457fe481ef6d7320eb0db71c522d33544d5a69c74a618613c7968a3715",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/test-game-v0.1.1/version.json"
         }
       ],
       "versions": [
+        {
+          "version": "0.1.1",
+          "date": "2026-10-03",
+          "notes": "Second test build: readme changed, the big file is not uploaded again."
+        },
         {
           "version": "0.1.0",
           "date": "2026-10-03",
