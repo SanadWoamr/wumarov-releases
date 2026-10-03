@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-03T01:24:23.559Z",
+  "updated": "2026-10-03T01:38:57.670Z",
   "launcher": {
     "version": "1.0.1",
     "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/launcher-v1.0.1/Wumarov-Launcher-Setup-1.0.1.exe",
@@ -9,5 +9,62 @@
     "notes": "",
     "date": "2026-10-03"
   },
-  "games": []
+  "games": [
+    {
+      "id": "project-hr",
+      "name": "Human Resources?",
+      "description": "A co-op horror game for one to four players. Work in the HR department of a growing corporation, interview applicants, and decide who gets hired. Not everyone is who they say they are.",
+      "exe": "HumanResources.exe",
+      "install_folder": "Human Resources",
+      "latest": "0.1.15",
+      "size": 391950153,
+      "files": [
+        {
+          "path": "HumanResources.exe",
+          "size": 109130240,
+          "sha256": "77797c3e7fc7a5c62c43935a5acd7eba8fe631975b676bbc164136c3dfd27be0",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/project-hr-v0.1.15/HumanResources.exe"
+        },
+        {
+          "path": "HumanResources.pck",
+          "size": 278539388,
+          "sha256": "6526ee6c44afb86991c2e38bb0f5ed1ab50ab54f9e63caf1b65311df1c7e535c",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/project-hr-v0.1.15/HumanResources.pck"
+        },
+        {
+          "path": "libgodotsteam.windows.template_release.x86_64.dll",
+          "size": 3961344,
+          "sha256": "b7a6316bb866691d01d311e181b76b0fe0c38602913725d1589083bee1db7f26",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/project-hr-v0.1.15/libgodotsteam.windows.template_release.x86_64.dll"
+        },
+        {
+          "path": "steam_api64.dll",
+          "size": 319128,
+          "sha256": "8de54d32508e216c9135b8bf025749243d44e404c1c22a8e5fe35acecabe7a9c",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/project-hr-v0.1.15/steam_api64.dll"
+        },
+        {
+          "path": "steam_appid.txt",
+          "size": 3,
+          "sha256": "ddfe0e8d462af661f81db36589c39882dc0f2330785b5d80cd34f2f520ad618f",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/project-hr-v0.1.15/steam_appid.txt"
+        },
+        {
+          "path": "version.json",
+          "size": 50,
+          "sha256": "0067674dbee17d98f41b8021fc91e67170343ab2b2d7a6f3fbbc5b89fa925a1c",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/project-hr-v0.1.15/version.json"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.1.15",
+          "date": "2026-10-03",
+          "notes": ""
+        }
+      ],
+      "cover": "https://raw.githubusercontent.com/SanadWoamr/wumarov-releases/main/art/project-hr/cover.svg",
+      "banner": "https://raw.githubusercontent.com/SanadWoamr/wumarov-releases/main/art/project-hr/banner.svg"
+    }
+  ]
 }
