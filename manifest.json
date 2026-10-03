@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "updated": "2026-10-03T01:38:57.670Z",
+  "updated": "2026-10-03T07:27:00.318Z",
   "launcher": {
-    "version": "1.0.1",
-    "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/launcher-v1.0.1/Wumarov-Launcher-Setup-1.0.1.exe",
-    "sha256": "c8f01f03db1457a0eee7587f9be04e654ca21f555c5bc8a928b65641459e05b3",
-    "size": 102379413,
-    "notes": "",
+    "version": "1.0.2",
+    "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/launcher-v1.0.2/Wumarov-Launcher-Setup-1.0.2.exe",
+    "sha256": "525c99d1dd3652105852c8f191254dc2e2f0d08518fc21bd8ef5776f8515625d",
+    "size": 102731573,
+    "notes": "Logo Updated",
     "date": "2026-10-03"
   },
   "games": [
