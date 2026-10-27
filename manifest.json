@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-27T02:31:11.529Z",
+  "updated": "2026-10-27T03:16:35.844Z",
   "launcher": {
     "version": "1.1.0",
     "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/launcher-v1.1.0/Wumarov-Launcher-Setup-1.1.0.exe",
@@ -70,6 +70,56 @@
       ],
       "cover": "https://raw.githubusercontent.com/SanadWoamr/wumarov-releases/main/art/project-hr/cover.svg",
       "banner": "https://raw.githubusercontent.com/SanadWoamr/wumarov-releases/main/art/project-hr/banner.svg"
+    },
+    {
+      "id": "royal-pains",
+      "name": "Royal Pains",
+      "description": "Royal Pains is a funny first-person, low-poly medieval war game for 2 to 4 players. You rule your kingdom, ride out to lead your army, and try to survive your own court.",
+      "exe": "RoyalPains.exe",
+      "install_folder": "Royal Pains",
+      "latest": "0.1.2",
+      "size": 151954642,
+      "files": [
+        {
+          "path": "libgodotsteam.windows.template_release.x86_64.dll",
+          "size": 3980800,
+          "sha256": "6535af56d325af0fff52dbb5de3703d110bb430fdef4e3026d7ece617270e530",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/royal-pains-v0.1.2/libgodotsteam.windows.template_release.x86_64.dll"
+        },
+        {
+          "path": "RoyalPains.exe",
+          "size": 109180928,
+          "sha256": "c06ca590822068a4835cd998be2c302c08d8e85065028260cbdfd8358627d00a",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/royal-pains-v0.1.2/RoyalPains.exe"
+        },
+        {
+          "path": "RoyalPains.pck",
+          "size": 38473736,
+          "sha256": "f67c32db03472155ad425b4be696f34499ca011e73fd11f3aa8686cf23c3da31",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/royal-pains-v0.1.2/RoyalPains.pck"
+        },
+        {
+          "path": "steam_api64.dll",
+          "size": 319128,
+          "sha256": "8de54d32508e216c9135b8bf025749243d44e404c1c22a8e5fe35acecabe7a9c",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/royal-pains-v0.1.2/steam_api64.dll"
+        },
+        {
+          "path": "version.json",
+          "size": 50,
+          "sha256": "16b9b23eadcae524484c997a316297baa340a6a94621d30b081b19d29753d8f7",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/royal-pains-v0.1.2/version.json"
+        }
+      ],
+      "versions": [
+        {
+          "version": "0.1.2",
+          "date": "2026-10-27",
+          "notes": ""
+        }
+      ],
+      "cover": "https://raw.githubusercontent.com/SanadWoamr/wumarov-releases/main/art/royal-pains/cover.png",
+      "banner": "https://raw.githubusercontent.com/SanadWoamr/wumarov-releases/main/art/royal-pains/banner.png"
     }
   ]
 }
