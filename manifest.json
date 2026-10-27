@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-27T03:51:28.104Z",
+  "updated": "2026-10-27T04:05:50.828Z",
   "launcher": {
     "version": "1.1.0",
     "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/launcher-v1.1.0/Wumarov-Launcher-Setup-1.1.0.exe",
@@ -77,8 +77,8 @@
       "description": "Royal Pains is a funny first-person, low-poly medieval war game for 2 to 4 players. You rule your kingdom, ride out to lead your army, and try to survive your own court.",
       "exe": "RoyalPains.exe",
       "install_folder": "Royal Pains",
-      "latest": "0.1.4",
-      "size": 151957046,
+      "latest": "0.1.5",
+      "size": 151959830,
       "files": [
         {
           "path": "libgodotsteam.windows.template_release.x86_64.dll",
@@ -89,14 +89,14 @@
         {
           "path": "RoyalPains.exe",
           "size": 109180928,
-          "sha256": "8fc24cf10f527b02072199c31d5c1851b8dca3a7cba774ed90d446a92538c920",
-          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/royal-pains-v0.1.4/RoyalPains.exe"
+          "sha256": "b70e5417dfe620654ab1fc829778c32b0a3dcfab2077780764adf1d40473d177",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/royal-pains-v0.1.5/RoyalPains.exe"
         },
         {
           "path": "RoyalPains.pck",
-          "size": 38476136,
-          "sha256": "6912dd5b78a637580107cdf84598010d0dbd842f86021d8c85c76f37a8133b24",
-          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/royal-pains-v0.1.4/RoyalPains.pck"
+          "size": 38478920,
+          "sha256": "ecc34078f70459f35b664f13b213040b77bf185f625d25e6bde6a7f908b5e6e3",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/royal-pains-v0.1.5/RoyalPains.pck"
         },
         {
           "path": "steam_api64.dll",
@@ -113,11 +113,16 @@
         {
           "path": "version.json",
           "size": 50,
-          "sha256": "919a82d987dedc78ed63234407762c8a9e2594cbe535b1793bba373f21285ddd",
-          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/royal-pains-v0.1.4/version.json"
+          "sha256": "7ddf63e6e03e7045ab887932d321df13efbd4dbf89277439c3bd2cb6e150f3e2",
+          "url": "https://github.com/SanadWoamr/wumarov-releases/releases/download/royal-pains-v0.1.5/version.json"
         }
       ],
       "versions": [
+        {
+          "version": "0.1.5",
+          "date": "2026-10-27",
+          "notes": "Rewrote Steam hosting and joining to match the working Human Resources setup: the player joins the Steam room first, then connects to the host. Added a version check, and the main menu now shows Steam status. Both players need the Steam client open and signed in, on two different Steam accounts, and both need version 0.1.5."
+        },
         {
           "version": "0.1.4",
           "date": "2026-10-27",
